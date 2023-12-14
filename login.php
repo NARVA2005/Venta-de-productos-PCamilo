@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <?php
 //controla el inicio de sesion
@@ -29,3 +30,6 @@ if (isset($_POST['correo']) && !empty($_POST['correo']) && isset($_POST['contra'
         header("location: users.php");
     }
 }
+=======
+<link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css">
+>>>>>>> fc6127da097748cabd414b371bb1258b327844a4
